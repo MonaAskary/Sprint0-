@@ -1,1 +1,302 @@
-
+   20  git clone https://github.com/MonaAskary/Sprint0.git
+   21  git clone https://github.com/MonaAskary/Sprint0
+   22  cd sprint0
+   23  ls
+   24  git remote -v
+   25  git status
+   26  git push origin master
+   27  git push origin master
+   28  git push origin master
+   29  git status
+   30  git add .
+   31  git status
+   32  git commit -m "edit names"
+   33  git status
+   34  git push origin master
+   35  git push origin master
+   36  git pull origin master
+   37  git status
+   38  git push origin master
+   39  git add File1 -About Version Control
+   40  git commit -N 
+   41  git log
+   42  git rm File2 -Branches in a Nutshell
+   43  git rm File2 -Branches in a Nutshell.txt
+   44  git rm File2 -Branches in a Nutshell.txt
+   45  git commit -m "changed to txt"
+   46  git push origin master
+   47  git clone https://github.com/MonaAskary/Sprint0.git
+   48  git clone https://github.com/MonaAskary/Sprint0
+   49  cd sprint0
+   50  git remote -v
+   51  git commit -m "changed files to txt"
+   52  git add commit -m "changed to txt all files"
+   53  git commit -A "changed all files to txt"
+   54  git rm File2 -Branches in Nutshell.txt
+   55  https://github.com/MonaAskary/Sprint0.git
+   56  git cone https://github.com/MonaAskary/Sprint0.git
+   57  git clone
+   58  git clone https://github.com/MonaAskary/Sprint0.git
+   59  git status
+   60  git rm
+   61  git rm File2 -Branches in a Nutshell
+   62  git rm File2 -Branches in a Nutshell.txt
+   63  git mv File2 -Branches in Nutshell File2
+   64  git push
+   65  git status
+   66  git origin master
+   67  git pull origin master
+   68  git clone https://github.com/MonaAskary/Sprint0.git
+   69  cd sprint0
+   70  git clone https://github.com/MonaAskary/Sprint0.git
+   71  git status
+   72  git mv File2 -Branches in a Nutshell File2
+   73  git mv File2 -Branches in a Nutshell.txt File2.txt
+   74  git rm File2 -Branches in a Nutshell
+   75  git rm File2 -Branches in a Nutshell.txt
+   76  git rm File2 -Branches in a Nutshell.txt
+   77  git rm File2 -Branches in a Nutshell
+   78  git rm -r File2 -Branches in a Nutshell
+   79  git config --global user.name "MonaAskary"
+   80  git config --global user.email "mona.elaskary@student.guc.edu.eg"
+   81  git clone https://github.com/MonaAskary/Sprint0-.git
+   82  cd Sprint0-
+   83  ls
+   84  git int
+   85  git int Sprint0-
+   86  git init 
+   87  git add file1
+   88  git add file1.txt
+   89  git status
+   90  git commit "file 1 is added"
+   91  git commit "file1 is added"
+   92  git add README.txt
+   93  git add AllMyCommands.txt
+   94  git status
+   95  git log
+   96  git add *.txt
+   97  git status
+   98  git commit -m "files are added"
+   99  git status
+  100  git rm file2.txt
+  101  git status
+  102  git commit -m "file2 is deleted"
+  103  git log
+  104  git revert commit ca99ac72448d67c358f6bb34d37459ff0173940b
+  105  git status
+  106  git revert commit a569ff05a42e161b9c61e4bbaff8006bda2edbfe
+  107  git revert a569ff05a42e161b9c61e4bbaff8006bda2edbfe
+  108  git init
+  109  git clone https://github.com/MonaAskary/Sprint0-.git
+  110  cd Sprint0-
+  111  git status
+  112  git add file1.txt
+  113  git add file3.txt
+  114  git status
+  115  git log
+  116  git commit -m "add file1"
+  117  git status
+  118  git add file1.txt
+  119  git add *.txt
+  120  git status
+  121  git log
+  122   git add .
+  123  git add file1.txt
+  124  git add file3.txt
+  125  git status
+  126  cd Sprint0-
+  127  cd "Sprint0-"
+  128  git clone https://github.com/MonaAskary/Sprint0-.git
+  129  ls
+  130  test
+  131  clear
+  132  ls
+  133  git status
+  134  git push origin master
+  135  git rm file2.txt
+  136  git commit -m "file2 is deleted"
+  137  git status
+  138  git log
+  139  git clone https://github.com/MonaAskary/Sprint0-.git
+  140  git status
+  141  git push origin master
+  142  git rm file2.txt
+  143  git log
+  144  git revert a569ff05a42e161b9c61e4bbaff8006bda2edbfe
+  145  git add file2.txt
+  146  git add *.txt
+  147  git status
+  148  git commit -m "file2 is added"
+  149  clear
+  150  git remote add GithubPub https://github.com/MonaAskary/Sprint0-.git
+  151  git remote
+  152  username for http://github.com
+  153  touch Readme.md
+  154  git status
+  155  cd Sprint0-
+  156  touch readme.md 
+  157  git status
+  158  git commit -m "add readme.md file"
+  159  git push origin master
+  160  git status
+  161  git add file2.txt
+  162  git add file2.txt
+  163  git commit -m "file2 is added again"
+  164  git push origin master
+  165  git status
+  166  git rm file2.txt
+  167  git commit -m "file2 is deleted again"
+  168  git push origin master
+  169  git log
+  170  git clone
+  171  cd Sprint0-
+  172  git revert cf54757f5e3f33957ffcc600a97de6c61fe05a22
+  173  git revert cf54757f5e3f33957ffcc600a97de6c61fe05a22
+  174  git clone https://github.com/MonaAskary/Sprint0-.git
+  175  git revert cf54757f5e3f33957ffcc600a97de6c61fe05a22
+  176  git revert cf54757f5e3f33957ffcc600a97de6c61fe05a22
+  177  cd Sprint0-
+  178  git revert cf54757f5e3f33957ffcc600a97de6c61fe05a22
+  179  git commit -m "file2 is restored"
+  180  git push origin master
+  181  cd Sprint0-
+  182  touch readme.md
+  183  vim readme.md
+  184  touch README.md
+  185  vim README.md
+  186  git status
+  187  vim README.md
+  188  git pull README.md
+  189  touch README.md
+  190  vim README.md
+  191  vim readme.md
+  192  git branch
+  193  git branch ReadMe
+  194  git branch
+  195  git checkout ReadMe
+  196  git branch
+  197  git push origin master
+  198  cd Sprint0-
+  199  git push origin master
+  200  git status
+  201  git push Sprint0- master
+  202  git branch
+  203  git branch ReadMe
+  204  git branch
+  205  git checkout ReadMe
+  206  git push Sprint0- master
+  207  git commit -m "ReadMe branch added"
+  208  git status
+  209  git push origin master
+  210  git push origin ReadMe
+  211  git commit -m "README.md file is edited"
+  212  git checkout ReadMe
+  213  vim README.md
+  214  :wq
+  215  vim README.md :wq
+  216  git push
+  217  git push
+  218  git branch
+  219  git push
+  220  git checkout master
+  221  git merge ReadMe
+  222  :wq
+  223  vim README.md
+  224  git checkout ReadMe
+  225  vim README.md
+  226  git log
+  227  touch README.md
+  228  vim README.md
+  229  vim README.md
+  230  git branch
+  231  vim README.md
+  232  vim -r README.md
+  233  git log
+  234  git commit -m "README.md is edited"
+  235  git rm README.md
+  236  git vim README.md
+  237  git var READE.md
+  238  git var -r README.md
+  239  git branch
+  240  git status
+  241  git push
+  242  git push README.md
+  243  git checkout ReadMe
+  244  git add README.md
+  245  git commit -m "README added"
+  246  git checkout 
+  247  git merge ReadMe
+  248  git status
+  249  git log
+  250  git push
+  251  git push <MonaAskary>
+  252  git push --set-upstream origin ReadMe
+  253  git push --set-upstream origin master
+  254  git push --set-upstream Sprint0- master
+  255  git log
+  256  git push origin ReadMe
+  257  git branch
+  258  git push origin ReadMe
+  259  git add README.md
+  260  git commit -m "Readme added again"
+  261  git branch
+  262  git rm file1
+  263  git rm file1.txt
+  264  git add AllMyCommands.txt
+  265  git checkout master
+  266  git add AllMyCommands.txt
+  267  git push AllMyCommands.txt
+  268  git push --set-upstream AllMyCommands.txt master
+  269  git add *.txt
+  270  git commit -m "AllMyCommands file is added"
+  271  git log
+  272  git status
+  273  git add AllMyCommands.txt
+  274  git add AllMyCommands.txt
+  275  git add *.txt
+  276  git status
+  277  git commit -m "AllMyCommands file is added"
+  278  git log
+  279  git status
+  280  git add AllMyCommands.txt
+  281  git branch
+  282  git add *.txt
+  283  git commit -m "AllMyCommands file is added"
+  284  cd Sprint0-
+  285  git add AllMyCommands.txt
+  286  git commit -m "AllMyCommands is added"
+  287  get status
+  288  git status
+  289  git add AllMyCommands.txt
+  290  git commit -m "AllMyCommands file is added"
+  291  git push origin master
+  292  git status
+  293  git add *.txt
+  294  git commit -m "AllMyCommands is added"
+  295  git branch
+  296  git checkout master
+  297  git add *.txt
+  298  git commit -m "AllMyCommands file is added"
+  299  ls
+  300  git add AllMyCommands.txt
+  301  git add AllMyCommands.txt
+  302  git add AllMyCommands.txt
+  303  git commit -m "AllMyCommands file is added"
+  304  git push origin master
+  305  git status
+  306  history
+  307  vim AllMyCommands.txt
+  308  :q!
+  309  git commit -m "Allmycommands file is updated"
+  310  vim README.md
+  311  git commit -m "ReadME file is updated"
+  312  git branch
+  313  history
+  314  git push origin master
+  315  git push master origin
+  316  git status
+  317  git commit -a "Allmycommands is updated"
+  318  git vim AllMyCommands.txt
+  319  vim AllMyCommands.txt
+  320  git commit -m "Allmycommands is updated"
+  321  history
